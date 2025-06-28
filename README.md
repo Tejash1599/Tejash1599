@@ -20,7 +20,7 @@
 - 🌱 Currently learning **DevOps**, **Microservices**, and exploring more in **backend scalability**
 - 💬 Ask me about **Node.js, React, Express, MongoDB, MySQL, JavaScript**
 - 📫 Reach me at **makwanatejash41@gmail.com**
-- 📄 Know more about my experience on [LinkedIn](https://www.linkedin.com/in/tej ash-mak)
+- 📄 Know more about my experience on [LinkedIn](https://www.linkedin.com/in/tejash-mak)
 
 ---
 
